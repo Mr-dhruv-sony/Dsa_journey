@@ -40,7 +40,7 @@ This repository documents my daily problem-solving journey across multiple compe
 | Platform | Profile | Focus Area | Status / Solved |
 | :--- | :--- | :--- | :--- |
 | 🟠 **LeetCode** | [@Mr-dhruv-sony](https://leetcode.com/) | NeetCode 150, Blind 75, POTD | Tracking |
-| 🟢 **GeeksforGeeks** | [@Mr-dhruv-sony](https://www.geeksforgeeks.org/profile/mrdhruvs0ny) | Problem of the Day (POTD), Core DSA | Tracking |
+| 🟢 **GeeksforGeeks** | [@Mr-dhruv-sony](https://www.geeksforgeeks.org/profile/dhruvsony) | Problem of the Day (POTD), Core DSA | Tracking |
 | 🔴 **Codeforces** | [@Mr-dhruv-sony](https://codeforces.com/profile/Dhruv_arc) | Div 2 / Div 3 Contests, Speed Math | Tracking |
 | 🟤 **CodeChef** | [@Mr-dhruv-sony](https://www.codechef.com/users/ideal_wolf_33) | Starters, Rating Boost | Tracking |
 | ⚡ **NxtWave CCBP** | Daily Practice | Curriculum Assessments & Core Modules | Tracking |
